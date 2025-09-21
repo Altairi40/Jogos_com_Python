@@ -86,4 +86,4 @@ while stop == False:
         else:
             print("\nJogada inváida, tente denovo")
             jogadas += 0
-
+            
