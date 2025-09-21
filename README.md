@@ -1,1 +1,1 @@
-Um 'Jogo da Velha' agora completo e funcional!!
+Jogos não tão bonitos como gostaria, mas funcionais
